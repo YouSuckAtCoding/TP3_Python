@@ -1,6 +1,6 @@
 import os
 
-path = 'C:/Users/FenixDev02/Downloads/DiretorioIdiota';
+path = '';
 
 #Bom, se for considerar que a função primariamente roda a O(n), cada diretório ira rodar a O(m), sendo m o total de nomes em determinado diretório.
 #Consequentemente todas as chamadas são O(n), sendo n o numero de arquivos em cada diretório.
